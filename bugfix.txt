@@ -1,3 +1,3 @@
-commitfrom master
-committing this from ShowfileSync
-i wana update this with my latest stuff
+commitfrom 
+committing  from ShowfileSync
+i wana play with my latest stuff
