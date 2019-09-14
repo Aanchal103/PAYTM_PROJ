@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-merging from master again
-lets double check
-=======
-merging from child part 2
-lets check if this works
->>>>>>> showFileSync
