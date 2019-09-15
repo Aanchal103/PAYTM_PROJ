@@ -18,7 +18,7 @@
 	<description>Maven Standalone Application</description>
 
 	<properties>
-		<sonar.host.url>http://54.91.119.117:9000</sonar.host.url>
+		<sonar.host.url>http://54.198.242.177:9000</sonar.host.url>
 		<sonar.login>bc621f1be56886a9a8a5deb09530247a06edb093</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
@@ -39,13 +39,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Aanchal Releases Nexus Repository</name>
-	      <url>http://54.198.242.177:8083/nexu/repository/paytm-release/</url>
+	      <url>http://100.24.70.237:8083/nexu/repository/paytm-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Aanchal Snapshot Nexus Repository </name>
-	      <url>http://54.198.242.177:8083/nexu/repository/paytm-snapshot/</url>
+	      <url>http://100.24.70.237:8083/nexu/repository/paytm-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
